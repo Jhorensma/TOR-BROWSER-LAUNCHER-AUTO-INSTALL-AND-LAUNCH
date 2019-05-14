@@ -12,6 +12,7 @@ git clone https://github.com/Jhorensma/TOR-BROWSER-LAUNCHER-AUTO-INSTALL-AND-LAU
 SWITCH DIRECTORY:
 -----------------
 cd TOR-BROWSER-LAUNCHER-AUTO-INSTALL-AND-LAUNCH
+
 INSTALL TOR-BROWSER-LAUNCHER:
 -----------------------------
 bash installtor.sh
