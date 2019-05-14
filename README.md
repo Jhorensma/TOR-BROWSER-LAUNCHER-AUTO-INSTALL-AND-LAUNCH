@@ -4,6 +4,8 @@
 #A SCRIPT TO LAUNCH TOR-BROWSER-LAUNCHER
 #
 #
+COPY AND PASTE THE FOLLOWING:
+-----------------------------
 
 DOWNLOAD:
 ---------
