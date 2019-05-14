@@ -29,4 +29,4 @@ bash installtor.sh
 LAUNCH TOR-BROWSER-LAUNCHER
 ---------------------------
 
-$~ bash tor.sh
+$~#: bash tor.sh
