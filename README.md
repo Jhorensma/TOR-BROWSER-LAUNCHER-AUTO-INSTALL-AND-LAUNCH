@@ -7,6 +7,6 @@
 
 INSTRUCTIONS:
 
-DOWNLOAD--->>> git clone https://github.com/Jhorensma/TOR-BROWSER-LAUNCHER-AUTO-INSTALL-AND-LAUNCH.git
-
-USAGE--->>> INSTALLER: bash installtor.sh LAUNCHER: bash tor.sh
+$ git clone https://github.com/Jhorensma/TOR-BROWSER-LAUNCHER-AUTO-INSTALL-AND-LAUNCH.git
+$ bash installtor.sh 
+$ bash tor.sh
