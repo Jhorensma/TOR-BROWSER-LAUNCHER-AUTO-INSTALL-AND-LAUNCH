@@ -5,8 +5,14 @@
 #
 #
 
-INSTRUCTIONS:
+DOWNLOAD:
+---------
+git clone https://github.com/Jhorensma/TOR-BROWSER-LAUNCHER-AUTO-INSTALL-AND-LAUNCH.git
 
-$ git clone https://github.com/Jhorensma/TOR-BROWSER-LAUNCHER-AUTO-INSTALL-AND-LAUNCH.git
-$ bash installtor.sh 
-$ bash tor.sh
+INSTALL TOR-BROWSER-LAUNCHER:
+-----------------------------
+bash installtor.sh
+
+LAUNCH TOR-BROWSER-LAUNCHER
+---------------------------
+bash tor.sh
