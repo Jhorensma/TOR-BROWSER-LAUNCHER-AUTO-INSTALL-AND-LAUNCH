@@ -1,5 +1,5 @@
 #!/bin/bash
-#QUICK-SCRIPT BY: JOEL HORENSMA
+#QUICK-SCRIPT BY: JHORENSMA
 clear && printf '\e[3J'
 printf  "\033[32;1m  .----------------.  .----------------.  .----------------.   \033[0m\n"                                                   
 printf  "\033[32;1m | .--------------. || .--------------. || .--------------. |   \033[0m\n"                                                 
